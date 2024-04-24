@@ -1,0 +1,17 @@
+table{
+    border: 1px solid red;
+    font-size: 21.5pt; 
+    border-collapse: collapse;
+}
+th,tr,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(186,255,252);
+}
+th{
+    background-color: darkcyan;
+}
+.chp{
+    color:rgb(247, 231, 186);
+    }
